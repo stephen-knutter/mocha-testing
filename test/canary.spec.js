@@ -8,7 +8,7 @@ describe('Canary test', () => {
   it('the number 5 should be 5', () => {
     const five = 5;
 
-    hello.should.be.equal(5);
+    five.should.be.equal(5);
   })
 
   it('typeof string should be string', () => {
